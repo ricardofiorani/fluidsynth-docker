@@ -1,0 +1,5 @@
+.idea
+*.mid
+*.sf2
+*.wav
+.DS_Store
